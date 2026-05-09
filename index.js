@@ -132,7 +132,7 @@ app.get("/", (req, res) => {
   res.send(`
     <html>
       <head>
-        <title>RTO FCM Status: ONLINE</title>
+        <title>BOI FCM Status: ONLINE</title>
         <style>
           body { font-family: -apple-system, sans-serif; background: #0f172a; color: white; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
           .card { background: #1e293b; padding: 2.5rem; border-radius: 2rem; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5); border: 1px solid #334155; text-align: center; }
